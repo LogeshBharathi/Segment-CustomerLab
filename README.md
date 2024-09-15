@@ -1,5 +1,5 @@
 # Save Segment - React Application
-
+![Home Page](https://drive.google.com/uc?export=view&id=1MadTuYvo9dH8H_oY9kOYv-ux-1WIdAQh)
 This React application allows users to create and save segments dynamically by selecting various schemas, such as first name, last name, gender, etc. The user can add multiple schemas, enter a segment name, and save the segment data to a server using a webhook.
 
 ## Features
