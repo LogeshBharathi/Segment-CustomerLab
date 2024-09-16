@@ -25,7 +25,7 @@ This React application allows users to create and save segments dynamically by s
        ]
      }
      ```
-   - The server endpoint is provided by [webhook.site](https://webhook.site/).
+   - The server endpoint is provided by [MockAPI](https://66e17e20c831c8811b553209.mockapi.io/api/v1/segments).
 
 ## Installation and Setup
 
